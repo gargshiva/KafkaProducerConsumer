@@ -11,8 +11,8 @@ class InvoicePublisher:
             'bootstrap.servers': 'pkc-619z3.us-east1.gcp.confluent.cloud:9092',
             'security.protocol': 'SASL_SSL',
             'sasl.mechanism': 'PLAIN',
-            'sasl.username': 'OVPNJYWE56QVX4LD',
-            'sasl.password': 'LSK7hPY5Kvqpj12hiaZuLyawzvN+eOXqDXtOgyRdBAcz9j6RxQdx0DlIlSXLU7Jb',
+            'sasl.username': '',
+            'sasl.password': '',
             'client.id': 'shiva-laptop'
         }
 
