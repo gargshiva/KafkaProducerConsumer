@@ -8,7 +8,7 @@ class InvoicePublisher:
     def __init__(self):
         self.topic_name = "invoices"
         self.conf = {
-            'bootstrap.servers': 'pkc-619z3.us-east1.gcp.confluent.cloud:9092',
+            'bootstrap.servers': '',
             'security.protocol': 'SASL_SSL',
             'sasl.mechanism': 'PLAIN',
             'sasl.username': '',
